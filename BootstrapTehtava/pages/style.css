@@ -1,3 +1,5 @@
+/* Taustakuvat */
+
 .page1 {
    background-image: url(../imgs/EN_HistoryOfMagic_Header.jpg);
 
@@ -11,6 +13,8 @@
     background-image: url(../imgs/MTG_Jace_MasterofSecrets.jpg);
     background-size: 100% ;
 }
+/*Yleistä muotoilua ja fontteja*/
+
 body {
     font-family:'Sorts Mill Goudy', serif ;
 }
@@ -53,6 +57,7 @@ body {
     display: none;
 
 }
+/* Värikoodit MTGn eri väreille*/
 
 #blue {
     color: blue;
