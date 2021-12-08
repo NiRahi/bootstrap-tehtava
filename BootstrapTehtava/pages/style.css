@@ -1,0 +1,81 @@
+.page1 {
+   background-image: url(../imgs/EN_HistoryOfMagic_Header.jpg);
+
+}
+
+.page2 {
+    background-image: url(../imgs/magic-the-gathering-mtg-wallpaper-full-hd-455717.jpg);
+}
+
+.page3 {
+    background-image: url(../imgs/MTG_Jace_MasterofSecrets.jpg);
+    background-size: 100% ;
+}
+body {
+    font-family:'Sorts Mill Goudy', serif ;
+}
+.howToPlay{
+    padding: 10px;
+    font-family: 'Sorts Mill Goudy', serif;;
+    font-size: 1.5em;
+    font-weight: 900;
+    color: white;
+}
+
+#gameStart{
+    padding: 10px;
+    font-family: 'Sorts Mill Goudy', serif;;
+    font-size: 2em;
+    font-weight: 900;
+    color: white;
+}
+.info, .infoRev{
+    padding: 10px;
+    font-family: 'Sorts Mill Goudy', serif;;
+    font-size: 1.5em;
+    font-weight: 900;
+    color: #0000FF;
+}
+
+#button1 {
+    padding: 10px;
+    border: solid 1px black;
+    color: white;
+    border-radius: 0%;
+    font-size: 1em;
+}
+
+#navbarTitle {
+    font-size: 1.5em;
+}
+
+.infoRev {
+    display: none;
+
+}
+
+#blue {
+    color: blue;
+}
+
+#black {
+    color: black;
+}
+
+#red {
+    color: red;
+}
+#green {
+    color: green;
+}
+
+#multiColor1 {
+    color: purple;
+}
+#multiColor2 {
+    color: blue;
+}
+
+#artifact {
+    color: gray;
+}
