@@ -1,2 +1,2 @@
 # bootstrap-tehtava
-Bootstrap tehtävä Web-tekniikat kurssilla
+Bootstrap assignment. Info page for game called Magic of Gathering.
